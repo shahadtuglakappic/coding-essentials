@@ -1,0 +1,8 @@
+ESSENTIAL CODES
+
+* Terminal : npx react-native start --reset-cache
+* iOS : Xcode -> Product -> Clean Build Folder
+* Android : Android Studio -> Build -> Clean Project
+* Clean derived data
+    * rm -rf ~/Library/Developer/Xcode/DerivedData
+
